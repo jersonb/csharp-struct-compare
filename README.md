@@ -42,7 +42,7 @@
 > Comparativo do que é acessível via IDE e o que é gerado pela IL.
 
 |Estrutura|IL|VS|
-|-:|-|-|
+|:-:|-|-|
 |`class`|![image](https://github.com/user-attachments/assets/602472ca-1966-44b7-a78b-4fecbe08ee16)|![image](https://github.com/user-attachments/assets/0950713c-f10d-409a-b918-db44607a6510)|
 |`record`|![image](https://github.com/user-attachments/assets/b08617c0-eeec-4eef-be74-cd3fcf3bfa69)|![image](https://github.com/user-attachments/assets/7d2e4bed-34df-48a6-87b5-3ce9f55df506)|
 |`record struct`|![image](https://github.com/user-attachments/assets/a3471e3d-c5d9-4b8a-8f77-13f2eefa552c)|![image](https://github.com/user-attachments/assets/39a5b48f-9096-4b20-8bb5-c91dbc5479b5)|
