@@ -1,6 +1,6 @@
 # Análise dos tipos de estrutura do `C#`
 
-> Projeto com a intenção de esmiuçar e comparar o uso dos tipos `class`, `struct`, `record` e `record struct`. Sim temos tudo isso além das típicas classes e o `hypado` struct.
+> Projeto com a intenção de esmiuçar e comparar o uso dos tipos `class`, `struct`, `record` e `record struct`. Sim temos tudo isso além das típicas classes e o *hypado* struct.
 > A proposta é criar um Value Object básico, placa de carro. Esse projeto foi construído aos poucos e comparando as quatro estruturas, parte por parte. Nesse caso o código está no estágio final.
 > Não tem a intenção de determinar o que é melhor ou pior, mas sim ter poder de comparação.
 > Fique a vontade para criticar ou sugerir qualquer coisa.
